@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/marti/OneDrive/Documents/Projects/Transcription/Transcription-1/build",
-  "command": "\"C:/Program Files/msys64/mingw64/bin/g++.exe\"   -g -std=gnu++11 -o CMakeFiles/Transription.dir/main.cpp.obj -c C:/Users/marti/OneDrive/Documents/Projects/Transcription/Transcription-1/main.cpp",
-  "file": "C:/Users/marti/OneDrive/Documents/Projects/Transcription/Transcription-1/main.cpp"
-}
-]
