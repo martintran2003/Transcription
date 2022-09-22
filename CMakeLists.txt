@@ -1,4 +1,4 @@
-project(Transription Project)
+project(Transcription_Project)
 
 set(CMAKE_CXX_STANDARD 11)
 
