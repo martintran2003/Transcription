@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/marti/CLionProjects/untitled/build",
-  "command": "\"C:/Program Files/msys64/mingw64/bin/g++.exe\"   -g -std=gnu++20 -o CMakeFiles/untitled.dir/main.cpp.obj -c C:/Users/marti/CLionProjects/untitled/main.cpp",
-  "file": "C:/Users/marti/CLionProjects/untitled/main.cpp"
-}
-]

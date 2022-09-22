@@ -1,3 +1,0 @@
-C:/Users/marti/CLionProjects/untitled/build/CMakeFiles/untitled.dir
-C:/Users/marti/CLionProjects/untitled/build/CMakeFiles/edit_cache.dir
-C:/Users/marti/CLionProjects/untitled/build/CMakeFiles/rebuild_cache.dir
